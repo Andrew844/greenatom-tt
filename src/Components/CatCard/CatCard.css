@@ -1,0 +1,25 @@
+.card img {
+    max-height: 200px;
+    max-width: 200px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.card .card-body {
+    display: flex;
+    justify-content: center;
+}
+
+.card .card-body p {
+    text-align: center;
+    margin: 5px;
+}
+
+.card .rating {
+    text-align: center;
+}
+
+.card button {
+    width: 40px;
+    height: 40px;
+}

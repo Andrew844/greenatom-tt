@@ -1,0 +1,12 @@
+.navbar {
+    margin-bottom: 2rem;
+}
+
+.navbar .navbar-nav a {
+    color: white;
+    margin: 5px;
+}
+
+.navbar .navbar-nav {
+    margin-left: auto;
+}
